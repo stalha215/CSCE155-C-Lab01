@@ -9,9 +9,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, char **argv) {
+int main(int argc, char **argv)
+{
 
-  printf("Hello World!\n");
+  printf("Author:TALHA HASSAN\nEMAIL:sardartalha555@gmail.com\nDate: 2023/10/20");
 
   return 0;
 }
